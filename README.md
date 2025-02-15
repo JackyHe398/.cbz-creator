@@ -13,7 +13,7 @@ This script automates the process of converting image-based comic folders into *
 1. **Install Python 3** (if not already installed).
 2. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/CBZ-Creator.git
+   git clone https://github.com/JackyHe398/CBZ-Creator.git
    cd CBZ-Creator
 3. Run the script:
     ```
